@@ -33,7 +33,7 @@
     "verify": "npm run lint && npm run format:check && npm run typecheck && npm test && npm run test:integration && npm run test:package"
   },
   "dependencies": {
-    "commander": "15.0.0",
+    "commander": "15.1.0",
     "picomatch": "4.0.7",
     "remark-frontmatter": "5.0.0",
     "remark-parse": "11.0.0",
